@@ -1,0 +1,15 @@
+{ "name" : "emailmanager"
+, "description" : "Ridiculously Simple Email Sending From Node.js using http://www.emailmanager.com"
+, "tags" : ["email", "utility"]
+, "version" : "0.1.2"
+, "author" : "Chris Williams <voodootikigod@gmail.com>"
+, "main" : "./lib/emailmanager"
+, "directories": { "lib": "./lib/emailmanager" }
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/voodootikigod/emailmanager.js.git"
+  }
+, "bugs" :
+  { "web" : "http://github.com/voodootikigod/emailmanager.js/issues" }
+, "engines" : ["node >=0.4.0"]
+}
